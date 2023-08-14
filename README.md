@@ -3,5 +3,5 @@
 ## About
  - This is a simple weather website.
  -  Pure HTML, CSS, JavaScript used.
- -  It ises OpenWeatherMap API to provide the user with weather details of the chosen destination.
+ -  It uses OpenWeatherMap API to provide the user with weather details of the chosen destination.
 
