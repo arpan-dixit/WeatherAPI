@@ -3,7 +3,5 @@
 ## About
  - This is a simple weather website.
  -  Pure HTML, CSS, JavaScript used.
- -  
-## Preview
+ -  It ises OpenWeatherMap API to provide the user with weather details of the chosen destination.
 
-<img src="https://user-images.githubusercontent.com/90236635/178144287-2d0c35f4-0b40-4b2c-bdfe-d874777eb87b.png" width="75%">
